@@ -1,0 +1,3 @@
+[submodule "example-proto-nodejs"]
+	path = example-proto-nodejs
+	url = https://github.com/rodrigoventuri123/example-proto-nodejs.git
